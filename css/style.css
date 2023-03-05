@@ -264,6 +264,8 @@ header .logo {
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
+  max-width: 1440px;
+  margin: 0 auto;
 }
 
 .hero-title {
@@ -520,5 +522,13 @@ footer .logo {
 .portfolio-title {
   margin-bottom: 8px;
 }
+
+
+
+
+
+
+
+
 
 
